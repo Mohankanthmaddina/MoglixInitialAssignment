@@ -1,5 +1,5 @@
 package tests;
-import src.*;
+import src.LongestValidParenthesesSubstring;
 public class TestCases {
     public static void main(String[] args) {
         LongestValidParenthesesSubstring solver = new LongestValidParenthesesSubstring();
